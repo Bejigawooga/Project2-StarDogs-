@@ -1,0 +1,10 @@
+body {
+    background: url(../img/dog1.png) ,  url(../img/sora-sagano.jpg);
+    background-image: no-repeat, no-repeat; 
+    background-position: right, center;
+    background-repeat: no-repeat;
+    background-size: contain, cover;
+      width: 100%;
+      height: 80vh;
+    
+  }
